@@ -1,5 +1,5 @@
 {
-    "name": "Balloob's experimental playground",
-    "url": "https://github.com/balloob/home-assistant-addons",
+    "name": "Fork of Balloob's experimental playground",
+    "url": "https://github.com/agners/balloob-home-assistant-addons",
     "maintainer": "balloob"
 }
